@@ -7,7 +7,7 @@ eg.\
 -> Human Rights\
 ---> Nature and Development of Human Rights\
 -----> Universal Sufferage\
--------> Evidence.md\
+-------> Evidence.md
 
 Within each evidence.md file, please add a title and a sub-title for each type of evidence.\
 eg.
