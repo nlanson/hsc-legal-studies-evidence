@@ -5,12 +5,12 @@ This repository aims to collect as much evidence that can be used in the HSC Leg
 Evidence should be seperated into seperate modules and different sub topics within each module.\
 eg.\
 -> Human Rights\
----> Nature and Development of Human Rights
------> Universal Sufferage
--------> Evidence.md
+---> Nature and Development of Human Rights\
+-----> Universal Sufferage\
+-------> Evidence.md\
 
 Within each evidence.md file, please add a title and a sub-title for each type of evidence.\
-eg.\
+eg.
 ```
 # Title
 
