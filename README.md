@@ -2,8 +2,8 @@
 This repository aims to collect as much evidence that can be used in the HSC Legal Studies Course.
 
 ## Info
-Evidence should be seperated into seperate modules and different sub topics within each module.
-eg.
+Evidence should be seperated into seperate modules and different sub topics within each module.\
+eg.\
   -> Human Rights\
      -> Development of HR (Universal Sufferage)\
         -> Evidence.txt
