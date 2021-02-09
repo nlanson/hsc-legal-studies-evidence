@@ -29,7 +29,7 @@ Fork the repo.\
 Download (clone) your cloned version of the repo.\
 Add/Edit evidence.\
 Push your changes.\
-Make a pull request.\
+Make a pull request.
 
 Evidence that is accepted includes:
 - Legislation
