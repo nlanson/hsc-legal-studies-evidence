@@ -4,17 +4,17 @@ This repository aims to collect as much evidence that can be used in the HSC Leg
 ## Info
 Evidence should be seperated into seperate modules and different sub topics within each module.
 eg.
-  -> Human Rights
-     -> Development of HR (Universal Sufferage)
+  -> Human Rights\
+     -> Development of HR (Universal Sufferage)\
         -> Evidence.txt
 
 ## Contributing
-Contribution is easy:
-Fork the repo.
-Download (clone) your cloned version of the repo.
-Add/Edit evidence.
-Push your changes.
-Make a pull request.
+Contribution is easy:\
+Fork the repo.\
+Download (clone) your cloned version of the repo.\
+Add/Edit evidence.\
+Push your changes.\
+Make a pull request.\
 
 Evidence that is accepted includes:
 - Legislation
