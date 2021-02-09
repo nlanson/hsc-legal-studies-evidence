@@ -1,5 +1,5 @@
 # HSC Legal Studies Evidence Collection.
-This repository aims to collect as much evidence that can be used in the HSC Legal Studies Course.
+This repository aims to collect as much evidence that can be used in the HSC Legal Studies Course in an easy to find, read and filter through manner.
 
 ## Structure
 Evidence should be seperated into seperate modules and different sub topics within each module.\
