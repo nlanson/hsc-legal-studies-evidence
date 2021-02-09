@@ -4,9 +4,9 @@ This repository aims to collect as much evidence that can be used in the HSC Leg
 ## Info
 Evidence should be seperated into seperate modules and different sub topics within each module.\
 eg.\
-  -> Human Rights\
-     -> Development of HR (Universal Sufferage)\
-        -> Evidence.txt
+-> Human Rights\
+---> Development of HR (Universal Sufferage)\
+------> Evidence.txt
 
 ## Contributing
 Contribution is easy:\
